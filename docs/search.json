@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "meeting2024",
+    "title": "GENFI summer meeting 2024",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is an informational website for the GENFI summer meeting in 2024 placed in Barcelona."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Location:\nCentre Esther Koplowitz\nEsteve Auditorium\nc/ Rosselló, 149-153. 08036 Barcelona\n\nHow to find us:\nSubway: line 5 (blue), ‘Hospital Clínic’ station\nBus: lines 14, 59, 63, 54, 66, 63, 67, 68, 31, 37"
+  },
+  {
+    "objectID": "accommodation.html",
+    "href": "accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "Hotel Barcelona America\nHotel NH Eixample\nHotel U232"
+  },
+  {
+    "objectID": "social event.html",
+    "href": "social event.html",
+    "title": "Social Event",
+    "section": "",
+    "text": "There is a social dinner for June the 13th."
+  },
+  {
+    "objectID": "about barcelona.html",
+    "href": "about barcelona.html",
+    "title": "About Barcelona",
+    "section": "",
+    "text": "City of Barcelona"
   }
 ]

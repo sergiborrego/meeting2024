@@ -3,12 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "GENFI summer meeting 2024"
-  navbar:
-    left:
+  title: "2024 summer meeting - Barcelona"
+  navbar: 
+      
+    right:  
       - href: index.qmd
         text: Home
       - about.qmd
+      - program.qmd
+      - accommodation.qmd
+      - social event.qmd
+      - about barcelona.qmd
+    logo: genfi_logo.png 
+    logo-href: "https://www.genfi.org/"
+    background: "#f6f1e8"
+    foreground: "#393d76"
+    pinned: true
+    search: false
 
 format:
   html:

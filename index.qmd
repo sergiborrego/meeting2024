@@ -1,11 +1,20 @@
 ---
-title: "meeting2024"
+title: "GENFI summer meeting 2024"
+subtitle: "June 13th and 14th 2024, Barcelona"
+image: bcn_landscape.jpg
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 40em 
 ---
 
-This is a Quarto website.
+::: {layout-ncol=2}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[![](genfi_logo.png){width=200}](https://www.genfi.org/   )
 
-```{r}
-1 + 1
-```
+[![](clinic_logo.jpg){width=200}](https://www.clinicbarcelona.org/)
+
+:::
+
+This is an informational website for the GENFI summer meeting in 2024 placed in Barcelona.
+
