@@ -9,29 +9,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Location",
     "section": "",
-    "text": "Location:\nCentre Esther Koplowitz\nEsteve Auditorium\nc/ Rosselló, 149-153. 08036 Barcelona\n\nHow to find us:\nSubway: line 5 (blue), ‘Hospital Clínic’ station\nBus: lines 14, 59, 63, 54, 66, 63, 67, 68, 31, 37"
+    "text": "Location:\nCentre Esther Koplowitz\nEsteve Auditorium\nc/ Rosselló, 149-153. 08036, Barcelona\n\nHow to find us:\n\nSubway: line 5 (blue), ‘Hospital Clínic’ station\nBus: lines 14, 59, 63, 54, 66, 63, 67, 68, 31, 37"
   },
   {
     "objectID": "accommodation.html",
     "href": "accommodation.html",
     "title": "Accommodation",
     "section": "",
-    "text": "Hotel Barcelona America\nHotel NH Eixample\nHotel U232"
+    "text": "We recommend these hotels near the meeting location. Please, be aware that our city has a high hotel occupancy and book your room in advance.\n\nHotel U232\n\n\n\n\n\n\n\nHotel Barcelona America\n\n\nHotel NH Eixample"
   },
   {
     "objectID": "social event.html",
     "href": "social event.html",
     "title": "Social Event",
     "section": "",
-    "text": "There is a social dinner for June the 13th."
+    "text": "We are planning a social dinner with all of you for June 13th. Details will be announced soon. We hope you will join us!"
   },
   {
     "objectID": "about barcelona.html",
     "href": "about barcelona.html",
     "title": "About Barcelona",
     "section": "",
-    "text": "City of Barcelona"
+    "text": "If you would like to get out and enjoy the city while enjoying this exciting meeting, our team can recommend some of the lesser-known places to visit in Barcelona.\n\nRaquel Sanchez Valle recommends:\n\n\nSergi Borrego Ecija recommends…  Mercat de Sant Antoni\n\nOur city is plenty of markets where you can eat, drink or simply walk between the smells and colours of our lively city. The most tourist of them is the Boqueria (placed in Las Ramblas), but my personal recommendation here is the Sant Antoni Market. Placed in a modernist building dated from 1882 this market is the heart of the neighborhood of the same name. Do not forget to lost yourself around the surrounding streets and enjoy some of the most popular pubs and restaurants in Barcelona.\n\n\nJordi Juncà recommends…"
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Meeting program will be announced in spring 2024."
   }
 ]
